@@ -68,3 +68,45 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Sneeakpeak about my project
+
+<h1 align='center'>STWN-responsive-website </h1>
+  <p align="center">
+    <a href="https://stwn-event-organizer-website.netlify.app">View Demo</a>
+    ·
+    <a href="https://github.com/FazzWeb10/Responsive-Website/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/FazzWeb10/Responsive-Website/pulls">Request Feature</a>
+  </p>
+
+![Image Signup](signup.png)
+![Image Login](login.png)
+![Image Login](landing_page.png)
+![Image Home](home.png)
+![Image Order](order.png)
+![Image Payment](payment.png)
+![Image Detail](detail.png)
+
+## About The Project
+
+membangun responsive website event organizer dengan ReactJS
+
+<!-- url home -> https://stwn-event-organizer-website.netlify.app/
+url home -> https://stwn-event-organizer-website.netlify.app/signup
+url home -> https://stwn-event-organizer-website.netlify.app/login
+url home -> https://stwn-event-organizer-website.netlify.app/order
+url home -> https://stwn-event-organizer-website.netlify.app/detail
+url home -> https://stwn-event-organizer-website.netlify.app/payment -->
+
+## Built With
+
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-v5.2.x-blue)](https://getbootstrap.com/)
+
+## Acknowledgements
+
+- [Bootstrap](https://getbootstrap.com/)
+
+## License
+
+© [Bagus Tri Harjanto](https://github.com/bagusth15/)
