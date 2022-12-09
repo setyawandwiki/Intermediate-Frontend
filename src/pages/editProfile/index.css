@@ -1,0 +1,79 @@
+.profile--page__container {
+  padding-top: 8rem;
+}
+
+.profile--section-form__container h1 {
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+.profile--container--right__size {
+  width: 95% !important;
+  border-radius: 20px;
+}
+
+.container--for-profile {
+  padding: 2rem;
+}
+
+.profile--change--user--profile__container--image {
+  width: 100%;
+  position: relative;
+  height: 100%;
+  z-index: 2;
+}
+
+.profile--button--chose--photo__style {
+  border: 1.5px solid #3366ff !important;
+  border-radius: 10px;
+  font-size: 0.9rem;
+  letter-spacing: 1px;
+  padding: 0.5rem 6rem !important;
+  font-weight: 600 !important;
+  color: #3366ff !important;
+}
+
+.profile--container--image--user__photo {
+  border-radius: 50%;
+  border: 3px solid #3366ff;
+  padding: 0.2rem;
+  filter: brightness(50%);
+  width: 6vw;
+  height: 12vh;
+  object-position: center;
+  object-fit: cover;
+  z-index: 1;
+  left: 30%;
+  right: 70%;
+  position: absolute;
+}
+
+.profile--image__icon {
+  position: absolute;
+  left: 20px;
+  z-index: 999999 !important;
+  color: white;
+  left: 40%;
+  top: 10%;
+  right: 60%;
+}
+
+.profile--change--user--profile__container {
+  height: 20vh;
+}
+
+.profile--form--input .form-group label {
+  /* background: red; */
+  width: 10vw;
+}
+
+.profile--form--input .form-group {
+  /* background: red; */
+  margin: 2rem 0;
+}
+
+.profile--form--input .form-group input[type="text"],
+.profile--form--input .form-group input[type="email"] {
+  /* background: red; */
+  width: 50%;
+}

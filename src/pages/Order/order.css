@@ -1,0 +1,132 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.bg-grey {
+  background-color: #f4f7ff;
+}
+
+.order--quantity__container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.order--quantity__content p {
+  margin: auto;
+}
+
+.order--section__content {
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  color: #373a42;
+}
+
+.order--quantity__content {
+  color: #373a42;
+  font-weight: 600;
+  font-size: 0.85rem;
+}
+
+.order--container__size {
+  height: vh !important;
+  margin-top: 5rem;
+}
+
+.order--logo__btn {
+  border: 1px solid transparent;
+  padding: 0.5rem;
+  box-shadow: -1px 0px 57px -11px rgba(0, 0, 0, 0.85);
+  border-radius: 10px;
+  margin-left: 1rem;
+}
+
+.order--title__container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.order--quantity--button__style {
+  border: 2px solid #d7def4 !important;
+  color: #d7def4 !important;
+  font-weight: 600 !important;
+}
+
+.order--quantity__style {
+  font-weight: 600;
+  font-size: 0.9rem;
+  color: #373a42;
+}
+
+.order--section__price--person {
+  color: #bdc0c4;
+  font-size: 0.85rem;
+}
+
+.order--section__price {
+  font-weight: 600;
+  color: #373a42;
+}
+
+.order--section__container {
+  display: flex;
+  justify-content: space-around;
+}
+
+.order--section__container p {
+  margin-bottom: 0;
+}
+
+.order--card--container {
+  width: 80%;
+}
+
+.order--container__size {
+  height: 100vh;
+  padding-top: 3rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container--order {
+  height: 20vh;
+  /* display: flex;
+  align-items: center;
+  justify-content: center; */
+}
+
+.card--order {
+  width: 1126px;
+  display: flex;
+  border: none !important;
+}
+
+.rotate-seat {
+  transform: rotate(-45deg);
+}
+
+.ticket-scrolling {
+  height: 300px;
+  overflow: auto;
+  /* background-color: brown; */
+}
+
+.ticket-icon {
+  width: 45px;
+}
+
+@media (max-width: 767.98px) {
+  .rotate-seat {
+    transform: none;
+  }
+  .order--container__size {
+    margin-bottom: 8rem;
+  }
+
+  .bg-grey {
+    background-color: white;
+  }
+}

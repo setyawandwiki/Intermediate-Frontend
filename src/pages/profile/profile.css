@@ -1,0 +1,90 @@
+.profile--user__photo {
+  border-radius: 50%;
+  border: 2px solid #3366ff;
+  flex: 2;
+  /* height: 50%; */
+  display: block;
+  margin: auto;
+  object-fit: cover;
+}
+
+.profile--user--photo__container {
+  /* background-color: red; */
+  width: 50px;
+  height: 70px;
+}
+
+.profile--user__container p:first-child {
+  color: #373a42;
+  font-size: 1rem;
+  letter-spacing: 1px;
+  margin-bottom: 0 !important;
+}
+
+.profile--user__container {
+  /* line-height: 15px; */
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.profile--user__container p:last-child {
+  color: #373a42;
+  font-size: 0.8rem;
+  letter-spacing: 1px;
+  font-weight: 600;
+  color: rgba(55, 58, 66, 0.75);
+}
+
+.profile--list--menu__button li {
+  font-weight: 600;
+  font-size: 0.85rem;
+  letter-spacing: 1px;
+  padding: 1rem 0;
+}
+
+.profile--list--menu__button li i {
+  font-size: 1.2rem;
+  margin: auto;
+  padding-right: 1.5rem;
+  color: #c1c5d0;
+}
+
+.profile--list--menu__button {
+}
+
+.profile--list--menu__button li span {
+  cursor: pointer;
+  transition: all 250ms;
+}
+
+.profile--list--menu__button li span:hover * {
+  color: #3366ff;
+  transition: all 250ms;
+}
+
+.profile--list--menu__button li span:active * {
+  color: #000000;
+}
+
+.profile--no--border {
+  width: 30% !important;
+  border: 1px solid transparent;
+  background: transparent;
+  /* text-align: right; */
+  padding-left: 2rem;
+}
+
+.profile--detail--menus__button li {
+  transition: all 250ms;
+  cursor: pointer;
+}
+
+.profile--detail--menus__button li:hover {
+  color: #3366ff;
+}
+
+.profile--detail--menus__button li:active {
+  color: #000000;
+}

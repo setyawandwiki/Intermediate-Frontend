@@ -1,0 +1,140 @@
+/* @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;800&display=swap");
+
+h1 {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+}
+
+.fa-brands {
+  font-size: 1.5rem;
+  color: #e5e5e5;
+}
+
+.h2,
+.h3,
+.h4,
+p,
+span {
+  font-family: "Poppins", sans-serif !important;
+}
+
+body {
+  background: #f4f7ff !important;
+}
+
+.container__padding {
+  padding: 2rem;
+}
+
+.margin__top {
+  margin-top: 8rem !important;
+}
+
+form {
+  overflow: hidden;
+}
+
+.arrow__click {
+  cursor: pointer;
+}
+
+.footer__section--social i {
+  margin-right: 1rem;
+  margin-top: 1rem;
+  cursor: pointer;
+  transition: 500ms;
+}
+
+.footer__section--social i:hover {
+  color: #828181;
+}
+
+.footer__Section--wetick ul li {
+  line-height: 30px;
+  color: #e5e5e5;
+  cursor: pointer;
+  transition: 500ms;
+}
+
+.footer__Section--wetick ul li:hover {
+  color: #6d6868;
+}
+
+.footer__section--links h1 {
+  position: relative;
+  bottom: -80%;
+}
+
+.footer__Section--wetick ul {
+  padding-left: 0 !important;
+}
+
+.footer__Section--wetick p {
+  color: #5a7184;
+}
+
+.footer__section--copyrights h1 {
+  padding-left: 6rem;
+}
+
+.none__desktop {
+  display: none;
+}
+
+.user__nav {
+  display: flex;
+  flex-direction: row;
+}
+
+@media (max-width: 546px) {
+  .container__card--logo {
+    width: 100vw;
+  }
+
+  .price {
+    width: 50vw;
+  }
+
+  .none__mobile {
+    display: none;
+  }
+
+  .none__desktop {
+    display: block;
+  }
+
+  .logo {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100vw;
+  }
+
+  .logo {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100vw;
+  }
+
+  .footer__section--social i {
+    margin-top: 0;
+    margin-bottom: 2rem;
+  }
+
+  .footer__section {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .margin__top {
+    display: flex;
+    flex-direction: column;
+  }
+  .ticket__detail--container {
+    width: 100vw !important;
+  }
+  .payment__method--container {
+    width: 100vw !important;
+  }
+} */

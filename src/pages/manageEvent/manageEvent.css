@@ -1,0 +1,51 @@
+.modal-dialog {
+  max-width: 50% !important;
+}
+
+.myBooking--content__container p:first-child {
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 36px;
+  letter-spacing: 2px;
+}
+
+.myBooking--content__container p:nth-child(2),
+.myBooking--content__container p:nth-child(3) {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 17px;
+  letter-spacing: 0.8px;
+}
+
+.detail--event--header__modal {
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 36px;
+  letter-spacing: 2px;
+}
+
+.detail--event__title--style h1 {
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 36px;
+  letter-spacing: 2px;
+}
+
+.close {
+  background-color: transparent;
+  border: none;
+}
+
+.detail--event__title--style p {
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 25px;
+  letter-spacing: 0.8px;
+}
+
+.manageBooking--menu--action__style a {
+  text-decoration: none;
+  color: #3366ff !important;
+  font-weight: 600;
+  font-size: 12px;
+}

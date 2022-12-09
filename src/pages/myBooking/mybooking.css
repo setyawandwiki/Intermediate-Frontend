@@ -1,0 +1,26 @@
+.change--password--month__container {
+  border-radius: 20px;
+  background: #eaf1ff;
+  color: #3366ff;
+  height: 9vh;
+}
+
+.change--password--month__div {
+  display: flex;
+  align-items: center;
+}
+
+.container--profile--user__size {
+  height: 70vh;
+}
+
+.myBooking--date__container {
+  box-shadow: -1px 0px 57px -11px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: -1px 0px 57px -15px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: -1px 0px 57px -1px rgba(0, 0, 0, 0.75);
+  padding: 0 1rem;
+  height: 4rem;
+  border-radius: 10px;
+  margin-right: 1rem;
+  cursor: pointer;
+}
