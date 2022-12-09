@@ -102,6 +102,7 @@ url home -> https://stwn-event-organizer-website.netlify.app/payment -->
 ## Env
 
 REACT_APP_CLOUDINARY_IMAGE_UR = YOUR CLUDINARY URL
+
 REACT_APP_URL = YOUR REACT URL
 
 ## Built With
